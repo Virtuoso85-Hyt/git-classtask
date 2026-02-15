@@ -1,0 +1,1 @@
+Git is an useful open-source, distributed version control system to track changes in files,for software development projects. It works by saving instancs of your work as commits which is like check ponts, helping to revert to any previous state as required.
